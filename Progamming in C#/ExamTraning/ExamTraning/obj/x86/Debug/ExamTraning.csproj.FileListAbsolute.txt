@@ -1,0 +1,5 @@
+/Users/nazirshuqair/Desktop/Certifications Studies/Progamming in C#/ExamTraning/ExamTraning/bin/Debug/ExamTraning.exe
+/Users/nazirshuqair/Desktop/Certifications Studies/Progamming in C#/ExamTraning/ExamTraning/bin/Debug/ExamTraning.pdb
+/Users/nazirshuqair/Desktop/Certifications Studies/Progamming in C#/ExamTraning/ExamTraning/obj/x86/Debug/ExamTraning.csproj.CoreCompileInputs.cache
+/Users/nazirshuqair/Desktop/Certifications Studies/Progamming in C#/ExamTraning/ExamTraning/obj/x86/Debug/ExamTraning.exe
+/Users/nazirshuqair/Desktop/Certifications Studies/Progamming in C#/ExamTraning/ExamTraning/obj/x86/Debug/ExamTraning.pdb
